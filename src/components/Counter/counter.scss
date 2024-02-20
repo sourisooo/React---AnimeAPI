@@ -1,0 +1,7 @@
+@use './../../styles/variables' as v;
+.counter {
+  margin: 1rem;
+  padding: 0.5rem;
+  background-color: v.$color-primary;
+  font-weight: 700;
+}
